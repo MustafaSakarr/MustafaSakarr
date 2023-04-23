@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖐️, I'm Mustafa</h1>
-<h1 aling="center"> Go with the flow 🏄‍</h1>
+<h2 align="center"> Go with the flow 🏄‍</h2>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <h4 align="center">I am in the process of developing myself in the field of front-end development. Languages I currently use; I continue to improve myself in HTML/CSS and JavaScript. So connect with me and let's find out more.  Thank you for visiting my profile.</h4>
 
