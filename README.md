@@ -1,14 +1,18 @@
+<img src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" alt="front-end developer" style="display: block;margin-left: auto;margin-right: auto;" />
 
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Mustafa</h1>
 <h2 align="center"> Go with the flow 🏄‍</h2>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <h4 align="center">I am in the process of developing myself in the field of front-end development. Languages I currently use; I continue to improve myself in HTML/CSS and JavaScript&React. So connect with me and let's find out more.  Thank you for visiting my profile.</h4>
+
 
 - 🔭 I’m currently working on [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
 
 - 🌱 I’m currently learning **JavaScript&React**
 
 - 📫 How to reach me **mustafa.sakar@hotmail.com**
+
+
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif">
 
@@ -30,7 +34,8 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mustafasakarr&show_icons=true&locale=en&theme=tokyonight" alt="mustafasakarr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafasakarr&show_icons=true&locale=en" alt="mustafasakarr" /></p>
 
 <h3>💻 IDEs/Editors</h3>
 
@@ -52,6 +57,10 @@
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+  | <h3>🎵 Now Playing</h3>                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315tna2cyik65o27iufi4xqmr5pe&cover_image=true&theme=default&show_offline=false&background_color=525252&interchange=false&bar_color=080708&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|
+
 
 <h3>🎮 Gaming</h3>
 
@@ -66,4 +75,10 @@
 <a href="https://medium.com/@mustafa.sakarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafa.sakarr" height="30" width="45" /></a>
 <a href="https://discord.gg/Mustafa (TiGLoNNN)#8209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mustafa (TiGLoNNN)#8209" height="30" width="45" /></a>
 </p>
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafasakarr&" alt="mustafasakarr" /></p>
+
 
