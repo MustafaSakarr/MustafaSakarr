@@ -29,8 +29,8 @@
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mustafasakarr&show_icons=true&locale=en" alt="mustafasakarr" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mustafasakarr&show_icons=true&locale=en&theme=tokyonight" alt="mustafasakarr" /></p>
 
 <h3>💻 IDEs/Editors</h3>
 
@@ -66,6 +66,3 @@
 <a href="https://medium.com/@mustafa.sakarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafa.sakarr" height="30" width="45" /></a>
 <a href="https://discord.gg/Mustafa (TiGLoNNN)#8209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mustafa (TiGLoNNN)#8209" height="30" width="45" /></a>
 </p>
-
-
-
