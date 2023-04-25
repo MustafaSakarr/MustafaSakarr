@@ -1,4 +1,4 @@
-<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkwZmVlNjY5MGE0ZjY2MDcxYTM3MjI2NWZiYzI1N2E5M2RjN2JkMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/gi84IkFRzwube/giphy.gif"  style="display:flex;" />
+<img  src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  style="display:flex;" />
 
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Mustafa</h1>
 <h2 align="center"> Go with the flow 🏄‍</h2>
@@ -6,11 +6,13 @@
 <h4 align="center">I am in the process of developing myself in the field of front-end development. Languages I currently use; I continue to improve myself in HTML/CSS and JavaScript&React. So connect with me and let's find out more.  Thank you for visiting my profile.</h4>
 
 
-- 🔭 I’m currently working on [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
+<h6 align="center">
 
-- 🌱 I’m currently learning **JavaScript&React**
+|🔭 I’m currently working on [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)|
 
-- 📫 How to reach me **mustafa.sakar@hotmail.com**
+|🌱 I’m currently learning **JavaScript&React**|
+
+|📫 How to reach me **mustafa.sakar@hotmail.com**|</h6>
 
 
 
@@ -51,16 +53,24 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafasakarr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mustafasakarr" /></p>
 
+
+
+
+
+
+
 <h3>🎶 Music</h3>
+
+
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
   | <h3>🎵 Now Playing</h3>                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315tna2cyik65o27iufi4xqmr5pe&cover_image=true&theme=default&show_offline=false&background_color=525252&interchange=false&bar_color=080708&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|
-
+|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315tna2cyik65o27iufi4xqmr5pe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|
 
 <h3>🎮 Gaming</h3>
 
@@ -75,6 +85,7 @@
 <a href="https://medium.com/@mustafa.sakarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafa.sakarr" height="30" width="45" /></a>
 <a href="https://discord.gg/Mustafa (TiGLoNNN)#8209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mustafa (TiGLoNNN)#8209" height="30" width="45" /></a>
 </p>
+
 
 
 
