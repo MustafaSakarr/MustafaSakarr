@@ -35,7 +35,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafasakarr&show_icons=true&locale=en" alt="mustafasakarr" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mustafasakarr&show_icons=true&locale=en&theme=tokyonight" alt="mustafasakarr" /></p>
 
 <h3>💻 IDEs/Editors</h3>
 
@@ -79,6 +79,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafasakarr&" alt="mustafasakarr" /></p>
+
 
 
