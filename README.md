@@ -70,13 +70,13 @@
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
   | <h3>🎵 Now Playing</h3>                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315tna2cyik65o27iufi4xqmr5pe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|
+|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315tna2cyik65o27iufi4xqmr5pe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|
 
-<h3>🎮 Gaming</h3>
+ <h3>🎮 Gaming</h3> 
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
