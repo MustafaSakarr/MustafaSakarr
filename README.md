@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Mustafa</h1>
 <h2 align="center"> Go with the flow 🏄‍</h2>
-<h3 align="center">A passionate frontend developer from World </h3>
+<h3 align="center">A passionate frontend developer from Turkey. </h3>
 <h4 align="center">I am in the process of developing myself in the field of front-end development. Languages I currently use; I continue to improve myself in HTML/CSS and JavaScript&React. So connect with me and let's find out more.  Thank you for visiting my profile.</h4>
 
 
