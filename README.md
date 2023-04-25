@@ -1,4 +1,4 @@
-<img src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" alt="front-end developer" style="display: block;margin-left: auto;margin-right: auto;" />
+<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkwZmVlNjY5MGE0ZjY2MDcxYTM3MjI2NWZiYzI1N2E5M2RjN2JkMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/gi84IkFRzwube/giphy.gif"  style="display:flex;" />
 
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Mustafa</h1>
 <h2 align="center"> Go with the flow 🏄‍</h2>
