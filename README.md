@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 🖐️, I'm Mustafa</h1>
+<h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h2 align="center"> Go with the flow 🏄‍</h2>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <h4 align="center">I am in the process of developing myself in the field of front-end development. Languages I currently use; I continue to improve myself in HTML/CSS and JavaScript&React. So connect with me and let's find out more.  Thank you for visiting my profile.</h4>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mustafa.sakar@hotmail.com**
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -30,7 +30,7 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mustafasakarr&show_icons=true&locale=en" alt="mustafasakarr" /></p>
-<p></p>
+
 
 <h3>💻 IDEs/Editors</h3>
 
@@ -46,7 +46,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafasakarr&show_icons=true&locale=en&layout=compact" alt="mustafasakarr" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafasakarr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mustafasakarr" /></p>
 
 <h3>🎶 Music</h3>
 
