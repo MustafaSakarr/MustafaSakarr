@@ -13,12 +13,17 @@
 |🌱 I’m currently learning **JavaScript&React**|
 
 |📫 How to reach me **mustafa.sakar@hotmail.com**|</h6>
-
+ 
+ 
+<div align="center">
+<a href="https://www.buymeacoffee.com/MMustafaa" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</div>
 
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif">
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languages and Tools</h3>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,6 +44,9 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mustafasakarr&show_icons=true&locale=en&theme=tokyonight" alt="mustafasakarr" /></p>
 
+
+
+
 <h3>💻 IDEs/Editors</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -48,48 +56,40 @@
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
+  
+  
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafasakarr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mustafasakarr" /></p>
 <h3>☁️ Hosting/SaaS</h3>
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafasakarr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mustafasakarr" /></p>
 
 
-
-
-
-
-
-<h3>🎶 Music</h3>
+ <h3>🎶 Music</h3>
 
 
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-  | <h3>🎵 Now Playing</h3>                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sezbam-tr&cover_image=true&theme=default&show_offline=false&background_color=b8f316&interchange=false&bar_color=100e0e)](https://github.com/kittinan/spotify-github-profile)|
 
- <h3>🎮 Gaming</h3> 
 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
+<div align="center">  
+<h3>🎵 Now Playing</h3>
 
-<h3 align="center">Connect with me:</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sezbam-tr&cover_image=true&theme=default&show_offline=false&background_color=b8f316&interchange=false&bar_color=100e0e)](https://github.com/kittinan/spotify-github-profile)
+</div>
+  
+<div align="center">
+<h2> Connect with me </h2> <img src="https://em-content.zobj.net/source/skype/289/handshake_1f91d.png" srcset="https://em-content.zobj.net/source/skype/289/handshake_1f91d.png 2x" alt="Handshake on Skype Emoticons 1.2" width="35" height="35">
 <p align="center">
-<a href="https://dev.to/mustafasakarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mustafasakarr" height="30" width="45" /></a>
-<a href="https://www.linkedin.com/in/mustafasakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafasakar/" height="30" width="45" /></a>
-<a href="https://medium.com/@mustafa.sakarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafa.sakarr" height="30" width="45" /></a>
-<a href="https://discord.gg/Mustafa (TiGLoNNN)#8209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mustafa (TiGLoNNN)#8209" height="30" width="45" /></a>
+<a href="https://dev.to/mustafasakarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mustafasakarr" height="40" width="55" /></a>
+<a href="https://www.linkedin.com/in/mustafasakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafasakar/" height="40" width="55" /></a>
+<a href="https://medium.com/@mustafa.sakarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafa.sakarr" height="40" width="55" /></a>
+<a href="https://discord.gg/Mustafa (TiGLoNNN)#8209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mustafa (TiGLoNNN)#8209" height="40" width="55" /></a>
 </p>
-
-
-
-
-
+<div>
 
 
 
